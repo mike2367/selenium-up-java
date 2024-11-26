@@ -10,6 +10,7 @@ chrome_files_info = [
     (
         "https://raw.githubusercontent.com/mike2367/selenium-up/refs/heads/browser-drivers/chrome-win/chrome.zip.001",
         "10f671ea4c8325e4f6286e26e9565051a92ae0db8377d06b0f4d2b4d3babf145",
+        
     ),
     (
         "https://raw.githubusercontent.com/mike2367/selenium-up/refs/heads/browser-drivers/chrome-win/chrome.zip.002",
