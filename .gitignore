@@ -1,0 +1,10 @@
+/target/
+src/main/resources/chrome
+src/main/resources/firefox
+/.settings
+.classpath
+*Test.java
+*.log
+.pydevproject
+/.vscode
+
