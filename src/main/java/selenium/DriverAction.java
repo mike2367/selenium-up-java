@@ -1,4 +1,4 @@
-package Selenium_up4j.s_up4j.selenium;
+package selenium;
 
 
 import org.openqa.selenium.*;

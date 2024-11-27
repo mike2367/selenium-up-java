@@ -1,4 +1,4 @@
-package Selenium_up4j.s_up4j.logger;
+package logger;
 
 
 public class EmailConfig {

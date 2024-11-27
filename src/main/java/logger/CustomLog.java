@@ -1,4 +1,4 @@
-package Selenium_up4j.s_up4j.logger;
+package logger;
 
 import java.io.File;
 import java.io.FileNotFoundException;
