@@ -8,3 +8,4 @@ src/main/resources/firefox
 .pydevproject
 /.vscode
 .project
+*.csv
